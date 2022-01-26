@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madhurishriniwar73
-- 👀 I’m interested in ...
+- 👀 I’m interested in joining organization as SDE role
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on unique projects
 - 📫 How to reach me madhurishriniwar24@gmail.com
